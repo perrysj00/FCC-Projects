@@ -1,1 +1,0 @@
-Displays basci HTML skills
